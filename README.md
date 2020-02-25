@@ -1,4 +1,4 @@
-# Password_Cracker
+#Assignment2_Password_Cracker
 This is a small program which uses password lists to decrypt the entered hash
 To run thi program one must make sure that the password list they wish to use is in the same directory as the program itself.  
 Afterwards, one only needs to start the program and they will be immediately prompted to enter the hash they wish to be decrypted. It is imperative to make sure there are no whitespaces following the pasted hash.
